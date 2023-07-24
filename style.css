@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 20px;
+}
+
+a {
+    color: white;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+h1, h2 {
+    font-family:'Georgia', 'Garamond', 'serif';
+}
+
+p, li {
+    font-family:Verdana, Tahoma, sans-serif;
+}
